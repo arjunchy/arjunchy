@@ -2,8 +2,6 @@
 <h3 align="center">A passionate full-stack web developer</h3>
 
 ---
-
-- 
 - 🤝 I’m looking for help with **full-stack or backend projects**
 - 🌱 Currently learning: **Docker AWS**
 - 👨‍💻 All of my projects are available at [https://github.com/arjunchy](https://github.com/arjunchy)
