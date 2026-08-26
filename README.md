@@ -5,8 +5,6 @@
 - 🤝 I’m looking for help with **full-stack or backend projects**
 - 🌱 Currently learning: **Docker AWS**
 - 👨‍💻 All of my projects are available at [https://github.com/arjunchy](https://github.com/arjunchy)
-- 👨‍💻 Portfolio website: [arjun-chaudhary.vercel.app](https://arjun-chaudhary.vercel.app)
-- 📝 I write technical blogs on: [Medium](https://medium.com/@arjunchaudhary477058)
 - 📫 Reach me at: **arjunchaudhary477058@gmail.com**
 - 💬 Ask me about: **React.js, Node.js, MongoDB, REST APIs, JWT Auth**
 - ⚡ Fun fact: **I love debugging more than writing fresh code 🔍💻**
